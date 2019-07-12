@@ -1,0 +1,21 @@
+.nav ul li {
+  margin: 13px  8px 0 0;
+  opacity: 0.6;
+  transition: all 0.4s ease;
+}
+.logo {
+    width: 98px;
+    height: 23px;
+    float: left;
+    margin: 6px 10px 11px;
+}
+#u725 {
+    width: 166px;
+    height: 33px;
+    float: right;
+    padding-top: 7px;
+    margin-left: 16px;
+    margin-right: 20px;
+}
+.ZSFY1beijing{width: 1024px;}
+.ZSFY2beijing{width: 1024px;}
